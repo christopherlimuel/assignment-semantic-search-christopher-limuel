@@ -110,5 +110,5 @@ pip install -r requirements.txt
 #### 2. Menjalankan Notebook / Script Evaluasi
 
 ```bash
-jupyter notebook notebook/starter_notebook.ipynb
+jupyter notebook notebook/starter_notebook_semantic_search.ipynb
 ```
